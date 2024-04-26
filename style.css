@@ -1,0 +1,124 @@
+/* Navbar */
+.navbar {
+	background-color: #f5b3b3;
+	overflow: hidden;
+}
+
+body{
+  /* background-color:#c0bfd9 */
+  background-image:url("images.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+      background-color: silver;
+  background-blend-mode: overlay;
+}
+.logo {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.navbar-items {
+	float: right;
+}
+
+.navbar-item {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	transition: 0.3s;
+}
+
+.navbar-item:hover {
+	background-color: white;
+	color: #f5b3b3;
+}
+
+/* .active {
+	background-color: white;
+	color: #f5b3b3;
+} */
+
+/* Tabs */
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.tabcontent {
+	display: none;
+	padding: 6px 12px;
+	border: 1px solid #ccc;
+	border-top: none;
+}
+
+.tabcontent h3 {
+	margin-top: 0;
+}
+
+.active {
+	display: block;
+}
+.bannerimg{
+padding-top: 20px;
+    width: 300px;
+  height: 200px;
+  object-fit: cover;
+
+
+}
+
+
+
+h1{
+  padding-top: 20px;
+  font-family: 'Sigmar', cursive;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.card {
+  min-height: 100%;
+}
+.cas{
+  font-family: 'Castoro Titling', cursive;
+  font-size: 40px;
+  
+}
+
+.b{
+    font-family: 'Permanent Marker', cursive;
+  font-size: 90px;
+  text-align: center;
+
+}
+.lar{
+      font-family: 'Permanent Marker', cursive;
+font-size: 90px;
+  text-align: center;
+}
+
+.card-img-top {
+  min-height: 50%;
+}
+.card-img-top{
+  padding-top: 10px;
+}
+.cf{
+   font-family: 'Permanent Marker', cursive;
+  text-align: center;
+}
