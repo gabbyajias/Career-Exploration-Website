@@ -42,12 +42,6 @@ body{
 	color: #f5b3b3;
 }
 
-/* .active {
-	background-color: white;
-	color: #f5b3b3;
-} */
-
-/* Tabs */
 .container {
 	max-width: 800px;
 	margin: 0 auto;
@@ -122,3 +116,15 @@ font-size: 90px;
    font-family: 'Permanent Marker', cursive;
   text-align: center;
 }
+
+h3{
+	color: palevioletred;
+}
+
+h2{
+	color: hotpink;
+}
+img {
+	padding: 5px;
+	border: 2px solid white;
+	margin-top: auto;}
